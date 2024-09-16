@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManasBhole
-- 👀 I’m interested in SOftware Application Development!
-- 🌱 I’m currently learning Masters in Computer Science
+- 👀 I’m interested in building Software and Cloud Infrastructures!
+- 🌱 I have completed Master's in Computer Science.
 - 💞️ I’m looking to collaborate on any open source software related projects.
 - 📫 How to reach me manasbhole2000@gmail.com
 
